@@ -5,3 +5,4 @@ int main()
     printf("Kaixo mundua!\n");
     return (0);
 }
+aprende
